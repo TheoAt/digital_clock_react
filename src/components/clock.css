@@ -1,0 +1,14 @@
+.clock-date {
+    margin-bottom: var(--spacing);
+    margin-top: -8px;
+    font-size: var(--spacing-medium);
+    color: var(--dark-color);
+    font-family: var(--secondary-font);
+}
+
+.clock-time {
+    text-align: center;
+    font-size: var(--spacing-large);
+    color: var(--main-color);
+    font-family: var(--secondary-font);
+}
